@@ -2,13 +2,21 @@
 Jogo Troco (pvp Arduino) - Trabalho da Faculdade.
 
 --Troco--
+
 O jogo deve ser executado no Arduino.
+
 Desenvolvido no Wokwi
+
 Material necessário:
+
 5 LEDs coloridos ( 2/2/1)
+
 5 botões 
+
 1 protoboard
+
 1 placa Arduino
+
 +/_ 20 cabos de conexão
 
 Sugestão de simulador Wokwi (https://wokwi.com/)
