@@ -33,13 +33,13 @@ Sugestão de simulador Wokwi (https://wokwi.com/)
 
 >DESAFIO
 >
-jogador 1 criar sequencia (até 20)/
-jogador 2 repete a sequencia com cores invertidas/
+jogador 1 criar sequencia (até 20).
+jogador 2 repete a sequencia com cores invertidas.
 
 >TROCO
 >
-jogador 2 cria sequencia no mesmo número ações da sequencia anterior do jogador adversário/
-jogador 1 repete a sequencia com cores invertidas/
+jogador 2 cria sequencia no mesmo número ações da sequencia anterior do jogador adversário.
+jogador 1 repete a sequencia com cores invertidas.
 
 --RODADA 2--
 
