@@ -1,4 +1,4 @@
-# Troco-Arduino v1.0
+# Troco-Arduino v1.0 #FURG #Alura
 Jogo Troco (pvp Arduino) - Trabalho da Faculdade.
 
 --Troco--
