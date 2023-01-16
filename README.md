@@ -37,7 +37,7 @@ Sugestão de simulador Wokwi (https://wokwi.com/)
 > 
 > O primeiro jogador que ficar com zero pontos (0) perde.
 
-  >>  EXEMPLO DE JOGO  <<
+  >>  EXEMPLO DE JOGO 
 
 --RODADA 1--
 
@@ -55,7 +55,7 @@ jogador 1 repete a sequencia com cores invertidas.
 
 --RODADA 2--
 
->DESAFIO/
+>DESAFIO
 >
 jogador 2 cria sequencia (até 20)
 ...
