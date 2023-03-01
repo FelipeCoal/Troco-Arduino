@@ -7,6 +7,8 @@
 
 * O jogo deve ser executado no Arduino.
 
+![image](https://github.com/FelipeCoal/Troco-Arduino/blob/main/Troco.png?raw=true)
+
 * Desenvolvido no Wokwi
 
 ### Material necessário:
