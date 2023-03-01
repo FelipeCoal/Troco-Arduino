@@ -49,9 +49,9 @@
 
 * O primeiro jogador que ficar com zero pontos (0) perde.
 
-# EXEMPLO DE JOGO 
+## EXEMPLO DE JOGO 
 
-## RODADA 1
+### RODADA 1
 
 ### DESAFIO
 
@@ -65,7 +65,7 @@
 
 * jogador 1 repete a sequencia com cores invertidas.
 
-## RODADA 2
+### RODADA 2
 
 ### DESAFIO
 
