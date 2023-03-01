@@ -1,69 +1,69 @@
-# Troco-Arduino v1.0 #FURG #Alura
-Jogo Troco (pvp Arduino) - Trabalho da Faculdade.
 
---Troco--
+Troco (jogo pvp em Arduino)
 
-O jogo deve ser executado no Arduino.
+### Troco
 
-Desenvolvido no Wokwi
+* O jogo deve ser executado no Arduino.
 
-Material necessário:
+* Desenvolvido no Wokwi
 
-5 LEDs coloridos ( 2/2/1)
+## Material necessário:
 
-5 botões 
+* 5 LEDs coloridos ( 2/2/1)
 
-1 protoboard
+* 5 botões 
 
-1 placa Arduino
+* 1 protoboard
 
-+/_ 20 cabos de conexão
+* 1 placa Arduino
 
-Sugestão de simulador Wokwi (https://wokwi.com/)
+* +/_ 20 cabos de conexão
 
- ---FORMA DE JOGAR---
+* Sugestão de simulador Wokwi (https://wokwi.com/)
 
-> O jogo Troco é feito por rodadas.
-> 
-> Cada rodada tem duas etapas: desafio e troco.
-> 
-> Cada jogador possui dois botões que ligam seus LEDs correspondentes. (BOTAO_2 e BOTAO3 para LED_2 e LED_3; BOTAO_5 e BOTAO_6 para LED_5 e LED_6).
-> 
-> No início de cada etapa, LEDs piscarão para indicar o respectivo jogador que deve jogar.
-> 
-> O jogador iniciante da rodada deve criar um DESAFIO apertando seus botões e criando uma sequencia de ativações dos LEDs (máximo 20; valor pode ser alterado nas variáveis).
-> 
-> No final de cada jogada, o jogador deve apertar o botão de finalizar jogada (BOTAO_4).
-> 
-> Após a jogada de DESAFIO o jogador adversário de REPETIR a sequência do adversário mas com as cores invertidas. Exemplo: Desafio de Verde, Verde, Vermelho deve ser repetida Vermelho, Vermelho, Verde.
-> 
-> A segunda etapa de cada rodada é o TROCO. 
-> 
-> O jogador que respondeu o desafio agora é o desafiador e deve criar um desafio com o mesmo número de ativações do desafiante anterior mas pode usar uma sequencia de cores diferente.
-> 
-> Errar faz o jogador atual perder 1 pontos e acertar faz o jogador adversário perder 2 pontos. 
-> 
-> O primeiro jogador que ficar com zero pontos (0) perde.
+ ## FORMA DE JOGAR
 
-  >>  EXEMPLO DE JOGO 
+*  O jogo Troco é feito por rodadas.
+ 
+* Cada rodada tem duas etapas: desafio e troco.
+ 
+* Cada jogador possui dois botões que ligam seus LEDs correspondentes. (BOTAO_2 e BOTAO3 para LED_2 e LED_3; BOTAO_5 e BOTAO_6 para LED_5 e LED_6).
+ 
+* No início de cada etapa, LEDs piscarão para indicar o respectivo jogador que deve jogar.
 
---RODADA 1--
+* O jogador iniciante da rodada deve criar um DESAFIO apertando seus botões e criando uma sequencia de ativações dos LEDs (máximo 20; valor pode ser alterado nas variáveis).
+ 
+* No final de cada jogada, o jogador deve apertar o botão de finalizar jogada (BOTAO_4).
 
->DESAFIO
->
-jogador 1 criar sequencia (até 20).
+* Após a jogada de DESAFIO o jogador adversário de REPETIR a sequência do adversário mas com as cores invertidas. Exemplo: Desafio de Verde, Verde, Vermelho deve ser repetida Vermelho, Vermelho, Verde.
 
-jogador 2 repete a sequencia com cores invertidas.
+* A segunda etapa de cada rodada é o TROCO. 
 
->TROCO
->
-jogador 2 cria sequencia no mesmo número ações da sequencia anterior do jogador adversário.
+* O jogador que respondeu o desafio agora é o desafiador e deve criar um desafio com o mesmo número de ativações do desafiante anterior mas pode usar uma sequencia de cores diferente.
 
-jogador 1 repete a sequencia com cores invertidas.
+* Errar faz o jogador atual perder 1 pontos e acertar faz o jogador adversário perder 2 pontos. 
 
---RODADA 2--
+* O primeiro jogador que ficar com zero pontos (0) perde.
 
->DESAFIO
->
-jogador 2 cria sequencia (até 20)
+  ### EXEMPLO DE JOGO 
+
+## RODADA 1
+
+# DESAFIO
+
+* jogador 1 criar sequencia (até 20).
+
+* jogador 2 repete a sequencia com cores invertidas.
+
+# TROCO
+
+* jogador 2 cria sequencia no mesmo número ações da sequencia anterior do jogador adversário.
+
+* jogador 1 repete a sequencia com cores invertidas.
+
+## RODADA 2
+
+# DESAFIO
+
+* jogador 2 cria sequencia (até 20)
 ...
