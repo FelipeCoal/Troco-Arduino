@@ -1,7 +1,9 @@
 
-# Troco (jogo pvp em Arduino)
+# Troco
 
-## Troco
+## Sobre o Troco
+
+* É um jogo pvp
 
 * O jogo deve ser executado no Arduino.
 
@@ -45,7 +47,7 @@
 
 * O primeiro jogador que ficar com zero pontos (0) perde.
 
-  # EXEMPLO DE JOGO 
+# EXEMPLO DE JOGO 
 
 ## RODADA 1
 
