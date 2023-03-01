@@ -1,15 +1,15 @@
 
-Troco (jogo pvp em Arduino)
+# Troco (jogo pvp em Arduino)
 
-### Troco
+## Troco
 
 * O jogo deve ser executado no Arduino.
 
 * Desenvolvido no Wokwi
 
-## Material necessário:
+### Material necessário:
 
-* 5 LEDs coloridos ( 2/2/1)
+* 5 LEDs coloridos (2-2-1)
 
 * 5 botões 
 
@@ -45,17 +45,17 @@ Troco (jogo pvp em Arduino)
 
 * O primeiro jogador que ficar com zero pontos (0) perde.
 
-  ### EXEMPLO DE JOGO 
+  # EXEMPLO DE JOGO 
 
 ## RODADA 1
 
-# DESAFIO
+### DESAFIO
 
 * jogador 1 criar sequencia (até 20).
 
 * jogador 2 repete a sequencia com cores invertidas.
 
-# TROCO
+### TROCO
 
 * jogador 2 cria sequencia no mesmo número ações da sequencia anterior do jogador adversário.
 
@@ -63,7 +63,7 @@ Troco (jogo pvp em Arduino)
 
 ## RODADA 2
 
-# DESAFIO
+### DESAFIO
 
 * jogador 2 cria sequencia (até 20)
 ...
